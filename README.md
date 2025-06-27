@@ -11,7 +11,9 @@ Ketika mereka bertemu di tengah, di lereng yang tak terlalu tinggi namun juga ta
 
 Sejak itu, mereka berjalan bersama, saling mengisi. Arga belajar merendah untuk memahami, dan Sari belajar meraih untuk mewujudkan. Puncak dan Lembah bukan lagi tempat yang memisahkan, melainkan dua sisi dari perjalanan yang sama—menuju keseimbangan antara kesuksesan dan kebijaksanaan.
 
-# Bolang Puncak Lembah Integral
+# Puncak Lembah Integral
 ### Pergi ke Atas (PA)
+Harga Integral dari Bawah ke Atas
 ### Pergi ke Bawah (PB)
+Harga Integral dari Atas ke Bawah
 
