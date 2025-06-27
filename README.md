@@ -1,4 +1,4 @@
-# Puncak-Lembah
+# Puncak Lembah
 Ada dua orang yang satu ada di Puncak kesuksesan yang satunya lagi di Lembah pengetahuan.
 Orang yang di Puncak menganggap orang yang di Lembah itu kecil, orang yang di Lembah menganggap orang yang di Puncak itu juga kecil.
 
@@ -10,4 +10,8 @@ Suatu hari, badai besar melanda. Puncak yang megah mulai runtuh, dan Argabot, ya
 Ketika mereka bertemu di tengah, di lereng yang tak terlalu tinggi namun juga tak terlalu rendah, Arga memandang Sari dengan kagum. "Kau tahu banyak hal yang tak pernah kupahami," katanya, suaranya penuh penyesalan. Sari mengangguk, lalu berkata, "Dan kau telah mencapai yang tak pernah kulihat. Tapi, Puncak dan Lembah bukanlah tujuan akhir. Kita hanya kecil jika kita berhenti belajar dan berhenti naik."
 
 Sejak itu, mereka berjalan bersama, saling mengisi. Arga belajar merendah untuk memahami, dan Sari belajar meraih untuk mewujudkan. Puncak dan Lembah bukan lagi tempat yang memisahkan, melainkan dua sisi dari perjalanan yang sama—menuju keseimbangan antara kesuksesan dan kebijaksanaan.
+
+# Bolang Puncak Lembah Integral
+### Pergi ke Atas (PA)
+### Pergi ke Bawah (PB)
 
